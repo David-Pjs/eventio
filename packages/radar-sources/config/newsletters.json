@@ -1,0 +1,91 @@
+[
+  {
+    "source": "africarisingwork",
+    "name": "Open Jobs in Africa",
+    "feed": "https://africarisingwork.substack.com/feed",
+    "scope": "africa",
+    "defaultKind": "job",
+    "maxPosts": 4
+  },
+  {
+    "source": "entrylevelafrica",
+    "name": "Entry Level and Internships in Africa",
+    "feed": "https://entrylevelandinternships.substack.com/feed",
+    "scope": "africa",
+    "defaultKind": "job",
+    "maxPosts": 3
+  },
+  {
+    "source": "execjobsafrica",
+    "name": "Senior and Executive Jobs in Africa",
+    "feed": "https://execjobsinafrica.substack.com/feed",
+    "scope": "africa",
+    "defaultKind": "job",
+    "maxPosts": 2
+  },
+  {
+    "source": "awelagos",
+    "name": "Awe Lagos",
+    "feed": "https://awelagos.substack.com/feed",
+    "scope": "nigeria",
+    "defaultKind": "event",
+    "city": "Lagos",
+    "maxPosts": 3
+  },
+  {
+    "source": "impactfunding",
+    "name": "Impact Funding",
+    "feed": "https://impactfunding.substack.com/feed",
+    "scope": "global",
+    "defaultKind": "grant",
+    "maxPosts": 3
+  },
+  {
+    "source": "fundedyouth",
+    "name": "Funded Youth Opportunities",
+    "feed": "https://fundedyouthopportunities.substack.com/feed",
+    "scope": "global",
+    "defaultKind": "fellowship",
+    "maxPosts": 6
+  },
+  {
+    "source": "aisafetyfunding",
+    "name": "AI Safety Funding",
+    "feed": "https://aisafetyfunding.substack.com/feed",
+    "scope": "global",
+    "defaultKind": "grant",
+    "maxPosts": 3
+  },
+  {
+    "source": "aisafetyevents",
+    "name": "AI Safety Events and Training",
+    "feed": "https://aisafetyeventsandtraining.substack.com/feed",
+    "scope": "global",
+    "defaultKind": "event",
+    "maxPosts": 3
+  },
+  {
+    "source": "startupvisors",
+    "name": "Startupvisors Community",
+    "feed": "https://community.startupvisors.com/feed",
+    "scope": "global",
+    "defaultKind": "grant",
+    "maxPosts": 3
+  },
+  {
+    "source": "africanwriters",
+    "name": "African Writer Weekly",
+    "feed": "https://africanwriterweekly.substack.com/feed",
+    "scope": "africa",
+    "defaultKind": "grant",
+    "maxPosts": 3
+  },
+  {
+    "source": "remotea11y",
+    "name": "RemoteA11y Jobs",
+    "feed": "https://remotea11y.substack.com/feed",
+    "scope": "global",
+    "defaultKind": "job",
+    "maxPosts": 2
+  }
+]

@@ -1,0 +1,65 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-paper: #ffffff;
+  --color-ink: #1c2a48;
+  --color-ink-soft: #5b6784;
+  --color-ink-line: rgb(28 42 72 / 0.14);
+  --color-ink-wash: rgb(28 42 72 / 0.04);
+  --font-sans: var(--font-bricolage), ui-sans-serif, sans-serif;
+}
+
+html {
+  background-color: var(--color-paper);
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-ink);
+  background-color: var(--color-paper);
+  min-height: 100dvh;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--color-ink);
+  color: var(--color-paper);
+}
+
+.sweep {
+  background: conic-gradient(from 0deg, transparent 0deg, transparent 260deg, var(--color-ink) 360deg);
+  animation: sweep 3s linear infinite;
+}
+
+@keyframes sweep {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes deal {
+  from {
+    opacity: 0;
+    transform: translateY(18px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.deal {
+  animation: deal 0.42s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sweep,
+  .deal {
+    animation: none;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-ink);
+  outline-offset: 3px;
+}

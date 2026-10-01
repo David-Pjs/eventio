@@ -120,3 +120,12 @@ dev.log
 
 # Agent Context
 .codex/
+
+# opportunity-radar
+apps/radar/.next/
+
+# local-only data (includes sources not safe to publish)
+apps/radar/data/opportunities.local.json
+
+.vercel
+.env*

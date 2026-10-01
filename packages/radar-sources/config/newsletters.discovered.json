@@ -1,0 +1,621 @@
+{
+  "generatedAt": "2026-09-30T23:28:07.364Z",
+  "newsletters": [
+    {
+      "name": "Open Jobs in Africa by Africa Rising",
+      "feed": "https://africarisingwork.substack.com/feed",
+      "sample": [
+        "🌍 Remote, Hybrid, & In Person Roles in Africa",
+        "🌍 Remote, Hybrid, & In Person Roles in Africa"
+      ],
+      "ageDays": 0,
+      "total": 20,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "Entry Level & Internships Jobs by Africa Rising",
+      "feed": "https://entrylevelandinternships.substack.com/feed",
+      "sample": [
+        "🌍 Intern & Entry Level Roles in Africa",
+        "🌍 Intern & Entry Level Roles in Africa"
+      ],
+      "ageDays": 0,
+      "total": 5,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "African Writer Weekly",
+      "feed": "https://africanwriterweekly.substack.com/feed",
+      "sample": [
+        "October Opportunities for African Writers",
+        "Ending Soon: 11 Opportunities for African Writers"
+      ],
+      "ageDays": 0,
+      "total": 20,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "Beyond the Bounty",
+      "feed": "https://bgfnews.substack.com/feed",
+      "sample": [
+        "Bounty Brief - 9/29/26",
+        "Bounty Brief - 9/22/26"
+      ],
+      "ageDays": 1,
+      "total": 20,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "Speaker Accelerator",
+      "feed": "https://speakeraccelerator.substack.com/feed",
+      "sample": [
+        "TEDxSIUC (Carbondale, Illinois) Opens Speaker Applications",
+        "TEDxCU (Boulder, Colorado) Opens Speaker Applications"
+      ],
+      "ageDays": 1,
+      "total": 20,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "The Funded Edge",
+      "feed": "https://thefundededge.substack.com/feed",
+      "sample": [
+        "The Funded Edge | Issue #011",
+        "The Funded Edge | Issue #010"
+      ],
+      "ageDays": 1,
+      "total": 11,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "GRO News: Events, Opportunities, & Jobs in NYC Life Sciences",
+      "feed": "https://grobiotech.substack.com/feed",
+      "sample": [
+        "GRO-Biotech Events — Week of 9/28",
+        "GRO-Biotech Events — Week of 9/21"
+      ],
+      "ageDays": 2,
+      "total": 20,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "RemoteA11y Jobs",
+      "feed": "https://remotea11y.substack.com/feed",
+      "sample": [
+        "Remote Accessibility Jobs – September 27, 2026",
+        "Remote Accessibility Jobs – September 20, 2026"
+      ],
+      "ageDays": 3,
+      "total": 20,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "Senior & Executive Jobs in Africa by Africa Rising",
+      "feed": "https://execjobsinafrica.substack.com/feed",
+      "sample": [
+        "🌍 Senior & Executive Roles in Africa",
+        "🌍 Senior & Executive Roles in Africa"
+      ],
+      "ageDays": 3,
+      "total": 7,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "Awe Lagos",
+      "feed": "https://awelagos.substack.com/feed",
+      "sample": [
+        "Your Lagos Weekend Guide: 25–27 September 2026",
+        "Your Lagos Weekend Guide: 18–20 September 2026"
+      ],
+      "ageDays": 5,
+      "total": 18,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "Fundraising Dispatch: Guides, Tips/Tricks, New Grants",
+      "feed": "https://www.fundraisingdispatch.com/feed",
+      "sample": [
+        "Funding Opportunities - September 25, 2026",
+        "Funding Opportunities - September 18, 2026"
+      ],
+      "ageDays": 5,
+      "total": 20,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "Vendmae Vendor Opportunities",
+      "feed": "https://vendmae.substack.com/feed",
+      "sample": [
+        "Vendmae Vendor Opportunities 🚀",
+        "Vendmae Vendor Opportunities 🚀"
+      ],
+      "ageDays": 6,
+      "total": 20,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "Remote Jobs Ninja - Working From Home",
+      "feed": "https://remotejobsninja.substack.com/feed",
+      "sample": [
+        "🏝️ + Remote Jobs for Copywriters & Exec Assistants",
+        "🏝️ + Remote Jobs for Copywriters & Exec Assistants"
+      ],
+      "ageDays": 6,
+      "total": 20,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "Impact Funding",
+      "feed": "https://impactfunding.substack.com/feed",
+      "sample": [
+        "Mid-September Update #3: 68 New Impact Funding Opportunities! ",
+        "Mid-September Update #2: 66 New Impact Funding Opportunities! "
+      ],
+      "ageDays": 7,
+      "total": 20,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "Everyday Election Activism: The Opportunities",
+      "feed": "https://theopportunities.substack.com/feed",
+      "sample": [
+        "Everyday Election Activism: The Opportunities",
+        "Everyday Election Activism: The Opportunities"
+      ],
+      "ageDays": 8,
+      "total": 20,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "Grants For Creators | Canada ",
+      "feed": "https://grantsforcreatorscanada.substack.com/feed",
+      "sample": [
+        "Photography Grant (Deadline: September 20, 2026)",
+        "Funding Opportunity for Early-Career Photographers (Deadline: September 18, 2026)"
+      ],
+      "ageDays": 17,
+      "total": 20,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "Creative Writing Opportunities Roundup - D'LitReview",
+      "feed": "https://dlitreview.substack.com/feed",
+      "sample": [
+        "Top Free-Entry Writing Competitions and Opportunities Closing in September 2026",
+        "Top Free-Entry Writing Competitions and Opportunities Closing in August 2026"
+      ],
+      "ageDays": 29,
+      "total": 20,
+      "opportunityRatio": 1
+    },
+    {
+      "name": "Funded Youth Opportunities",
+      "feed": "https://fundedyouthopportunities.substack.com/feed",
+      "sample": [
+        "Calls for applications: NVIDIA’s 2027–2028 Graduate Fellowship Program is now officially open ",
+        "25 Fully Funded Global Awards, Prizes & Competitions You Shouldn't Miss in 2026–2027 | Win Funding, Recognition, International Exposure & More "
+      ],
+      "ageDays": 0,
+      "total": 20,
+      "opportunityRatio": 0.95
+    },
+    {
+      "name": "Grants For Creators™",
+      "feed": "https://www.grantsforcreators.com/feed",
+      "sample": [
+        "$5,000 Grant For Comedic Women Writers and Playwrights (Deadline: October 1, 2026) ",
+        "16 New Grants with October 2026 Deadlines"
+      ],
+      "ageDays": 0,
+      "total": 20,
+      "opportunityRatio": 0.95
+    },
+    {
+      "name": "Editorial World: Non-Pitch Remote Writing Jobs",
+      "feed": "https://freelancehub.substack.com/feed",
+      "sample": [
+        "Editorial World: Your midweek extra job listings! Write about credit cards, women’s health, prediction markets, and more!",
+        "Editorial World Remote Writing Jobs - Issue 113: Vogue, The BBC, Getty Publications"
+      ],
+      "ageDays": 0,
+      "total": 20,
+      "opportunityRatio": 0.95
+    },
+    {
+      "name": "Community By Startupvisors| Startup Community in India",
+      "feed": "https://community.startupvisors.com/feed",
+      "sample": [
+        "Remote Work Opportunities, Grants, Funding & More - Sep 24 2026",
+        "Remote Work Opportunities, Grants, Funding & More - Sep 03 2026"
+      ],
+      "ageDays": 6,
+      "total": 20,
+      "opportunityRatio": 0.95
+    },
+    {
+      "name": "The Write Job Today",
+      "feed": "https://remotewritingjobs.substack.com/feed",
+      "sample": [
+        "Remote Writer Jobs & Submissions Sept 18th",
+        "Remote Writing Jobs Update – 3 September 2026"
+      ],
+      "ageDays": 12,
+      "total": 20,
+      "opportunityRatio": 0.95
+    },
+    {
+      "name": "Internship Jobs",
+      "feed": "https://internshipjobs.substack.com/feed",
+      "sample": [
+        "🎓50 Internship Jobs of the Week",
+        "🎓Internship Jobs of the Week"
+      ],
+      "ageDays": 6,
+      "total": 19,
+      "opportunityRatio": 0.9473684210526315
+    },
+    {
+      "name": "AI Safety Funding",
+      "feed": "https://aisafetyfunding.substack.com/feed",
+      "sample": [
+        "Issue #21, 2026",
+        "Issue #20, 2026"
+      ],
+      "ageDays": 0,
+      "total": 20,
+      "opportunityRatio": 0.9
+    },
+    {
+      "name": "AI Safety Events & Training",
+      "feed": "https://aisafetyeventsandtraining.substack.com/feed",
+      "sample": [
+        "Week 39, 2026",
+        "Week 38, 2026 "
+      ],
+      "ageDays": 6,
+      "total": 20,
+      "opportunityRatio": 0.9
+    },
+    {
+      "name": "Indiana House Democratic Caucus Internship Newsletter",
+      "feed": "https://ihdcinternshipprogram.substack.com/feed",
+      "sample": [
+        "Want to be an intern in the House of Representatives? Stop by our recruitment events on campus this fall 👋",
+        "Apply now for the 2027 Indiana House Democratic Caucus Internship Program!"
+      ],
+      "ageDays": 22,
+      "total": 17,
+      "opportunityRatio": 0.8823529411764706
+    },
+    {
+      "name": "✍️ Make Writing Your Job",
+      "feed": "https://www.makewritingyourjob.com/feed",
+      "sample": [
+        "✍️ 230+ Grants, Contests, & Residencies for Writers | September 30, 2026",
+        "✍️ 20+ NEW Remote Writing Jobs | September 30, 2026"
+      ],
+      "ageDays": 0,
+      "total": 20,
+      "opportunityRatio": 0.85
+    },
+    {
+      "name": "VIP Opportunities for Travel Bloggers",
+      "feed": "https://vipblogger.substack.com/feed",
+      "sample": [
+        "September 28, 2026 VIP Opportunities",
+        "September 21, 2026 VIP Opportunities"
+      ],
+      "ageDays": 2,
+      "total": 11,
+      "opportunityRatio": 0.8181818181818182
+    },
+    {
+      "name": "Your Daily Scholarship",
+      "feed": "https://nodebtcollege.substack.com/feed",
+      "sample": [
+        "$1000 Future Advocate Scholarship",
+        "$10,000 Stantec Future Leaders Scholarship"
+      ],
+      "ageDays": 0,
+      "total": 20,
+      "opportunityRatio": 0.8
+    },
+    {
+      "name": "Grant Writing Academy Newsletter",
+      "feed": "https://grantwritingacademy.substack.com/feed",
+      "sample": [
+        "Before You Paste AI-Written Text into a Grant Proposal, Verify These 12 Types of Claims",
+        "The Grant Application Gives Me 1,200 Characters to Explain a Program That Usually Takes Two Pages—What Should I Cut and What Must Stay?"
+      ],
+      "ageDays": 0,
+      "total": 20,
+      "opportunityRatio": 0.8
+    },
+    {
+      "name": "WFH Mama Mail ",
+      "feed": "https://newsletter.wfhmamajobs.com/feed",
+      "sample": [
+        "I found a $300K remote job in Canada and it's in today's free section 👀",
+        "$88K remote role at a brand you know + 25 more jobs inside 🍁"
+      ],
+      "ageDays": 2,
+      "total": 20,
+      "opportunityRatio": 0.75
+    },
+    {
+      "name": "WA Fellowship’s Substack",
+      "feed": "https://fellowshipofwriterswa.substack.com/feed",
+      "sample": [
+        "Fellowship September Newsletter",
+        "Fellowship August Newsletter"
+      ],
+      "ageDays": 23,
+      "total": 20,
+      "opportunityRatio": 0.75
+    },
+    {
+      "name": "Sylvia Osi :Get Hired Remotely",
+      "feed": "https://sylviaosi.substack.com/feed",
+      "sample": [
+        "Stop Making This CV Mistake If You Want to Get Hired",
+        "What to Post on LinkedIn When You’re Job Hunting"
+      ],
+      "ageDays": 2,
+      "total": 9,
+      "opportunityRatio": 0.6666666666666666
+    },
+    {
+      "name": "Go Remote",
+      "feed": "https://itsatravelod.substack.com/feed",
+      "sample": [
+        "8 new open remote jobs for you",
+        "The ‘Remote Job Blueprint’ I’ve built after helping 500+ people go remote"
+      ],
+      "ageDays": 0,
+      "total": 20,
+      "opportunityRatio": 0.65
+    },
+    {
+      "name": "Faith Based Grants Newsletter",
+      "feed": "https://faithbasedgrants.substack.com/feed",
+      "sample": [
+        "The Application Requires Outcomes We Have Never Tracked—What Makes an Organization Evaluation-Ready Before It Promises Them?",
+        "The Funder Allows Up to $500,000, and Leadership Wants to Ask for the Maximum—How Do You Decide What the Project Actually Costs?"
+      ],
+      "ageDays": 1,
+      "total": 20,
+      "opportunityRatio": 0.65
+    },
+    {
+      "name": "Laverne’s Substack",
+      "feed": "https://lavernecollegescholarships.substack.com/feed",
+      "sample": [
+        "¡Feliz Hispanic Heritage Month! Scholarships for Hispanic & Latino Students Due in October and November.",
+        "SCHOLARSHIP TEA WITH ME! Ep. 18 - Fall Scholarship Season!"
+      ],
+      "ageDays": 2,
+      "total": 20,
+      "opportunityRatio": 0.65
+    },
+    {
+      "name": "Access to Opportunities",
+      "feed": "https://accesstoopportunities.substack.com/feed",
+      "sample": [
+        "ACCESS TO OPPORTUNITIES 2026 — DAY 4 IS LIVE! 🚨",
+        "ACCESS TO OPPORTUNITIES 2026 — WHAT’S NEXT? 🧡"
+      ],
+      "ageDays": 27,
+      "total": 14,
+      "opportunityRatio": 0.6428571428571429
+    },
+    {
+      "name": "OFE ",
+      "feed": "https://opportunitiesforeveryone.substack.com/feed",
+      "sample": [
+        "You’re Eligible for a Free Scholarship Consultation with Edward Consulting ",
+        "Special Invitation: Let's Talk About Studying Abroad in 2 Days Time "
+      ],
+      "ageDays": 0,
+      "total": 11,
+      "opportunityRatio": 0.6363636363636364
+    },
+    {
+      "name": "Patti’s Substack",
+      "feed": "https://pgsfellowship.substack.com/feed",
+      "sample": [
+        "Launch Your Aerospace Career: Now Accepting Applications for the Patti Grace Smith Fellowship",
+        "Why We’re Participating in Give 8/28 (and How You Can Support Our Next Class)"
+      ],
+      "ageDays": 26,
+      "total": 8,
+      "opportunityRatio": 0.625
+    },
+    {
+      "name": "Glam Observer",
+      "feed": "https://glamobserver.substack.com/feed",
+      "sample": [
+        "Where to Find the Best Fashion Jobs and Internships: 4 Less Competitive Places Nobody Talks About",
+        "Louis Vuitton, Saint Laurent, Condè Nast and LVMH are hiring!"
+      ],
+      "ageDays": 2,
+      "total": 20,
+      "opportunityRatio": 0.6
+    },
+    {
+      "name": "Friday Funding Chats by The WIP",
+      "feed": "https://thewipwork.substack.com/feed",
+      "sample": [
+        "#57 Why You Need My Crowdfunding Timeline",
+        "#56 Diversifying Revenue Streams: 5 questions to ask yourself (Part 2)"
+      ],
+      "ageDays": 5,
+      "total": 20,
+      "opportunityRatio": 0.6
+    },
+    {
+      "name": "Orwell News",
+      "feed": "https://orwellfoundation.substack.com/feed",
+      "sample": [
+        "The Orwell Youth Fellows’ Substack has expanded",
+        "The Orwell Youth Prize winners are here: read them in The Observer"
+      ],
+      "ageDays": 6,
+      "total": 20,
+      "opportunityRatio": 0.6
+    },
+    {
+      "name": "DC Internships and Housing",
+      "feed": "https://dcinternshipsandhousing.substack.com/feed",
+      "sample": [
+        "October Is Coming… What Internships Should You Watch For?",
+        "This Week’s PAID LIST - September 28 (Internships) 🏛️"
+      ],
+      "ageDays": 1,
+      "total": 20,
+      "opportunityRatio": 0.55
+    },
+    {
+      "name": "Awards for Creators  |  Recognized™ ",
+      "feed": "https://recognized.substack.com/feed",
+      "sample": [
+        "Is That Award Worth Entering? What to Consider First",
+        "10 Industry-Specific Podcast Awards You Should Know"
+      ],
+      "ageDays": 2,
+      "total": 20,
+      "opportunityRatio": 0.55
+    },
+    {
+      "name": "Remote Jobs and You",
+      "feed": "https://remotejobsandyou.substack.com/feed",
+      "sample": [
+        "The Skill Inside Your Job",
+        "Please Everyone, Please No One"
+      ],
+      "ageDays": 0,
+      "total": 20,
+      "opportunityRatio": 0.5
+    },
+    {
+      "name": "ContentAsia Awards",
+      "feed": "https://contentasia.substack.com/feed",
+      "sample": [
+        "“Everyone Deserves a Chance to Rebuild Their Life”",
+        "“No Matter What Gender or Who You Are, You Deserve Love” "
+      ],
+      "ageDays": 16,
+      "total": 17,
+      "opportunityRatio": 0.47058823529411764
+    },
+    {
+      "name": "Zerofluff’s Substack",
+      "feed": "https://zerofluffinsights.substack.com/feed",
+      "sample": [
+        "The Substack Algorithm and Life Work the Same Way",
+        "Stop Searching 20 Job Boards. I’ve Filtered the Latest US Remote Jobs for You. | Sept. 23, 2026"
+      ],
+      "ageDays": 7,
+      "total": 15,
+      "opportunityRatio": 0.4666666666666667
+    },
+    {
+      "name": "Africa Jobs Fund",
+      "feed": "https://africajobsfund.substack.com/feed",
+      "sample": [
+        "Africa Jobs Fund: The First 100 Days",
+        "Why We Invested: PeopleGateway"
+      ],
+      "ageDays": 15,
+      "total": 13,
+      "opportunityRatio": 0.46153846153846156
+    },
+    {
+      "name": "The Grant Gal",
+      "feed": "https://justgrants.substack.com/feed",
+      "sample": [
+        "Up to $15,000 When Your Anti-Hunger Organization Needs to Act FAST",
+        "Work with Me - The Grant Gal!"
+      ],
+      "ageDays": 1,
+      "total": 20,
+      "opportunityRatio": 0.45
+    },
+    {
+      "name": "next play",
+      "feed": "https://nextplayso.substack.com/feed",
+      "sample": [
+        "AE openings at Baselayer, former Director of Engineering at Meta, open roles at Legora",
+        "Should you join: Forus"
+      ],
+      "ageDays": 1,
+      "total": 20,
+      "opportunityRatio": 0.45
+    },
+    {
+      "name": "Devshree’s Substack",
+      "feed": "https://devshreebharatia.substack.com/feed",
+      "sample": [
+        "Recruiter Emails and Contact Details for companies Hiring in 2026",
+        "Companies hiring without Leetcode"
+      ],
+      "ageDays": 0,
+      "total": 20,
+      "opportunityRatio": 0.4
+    },
+    {
+      "name": "Fully Funded Grad",
+      "feed": "https://fullyfundedgrad.substack.com/feed",
+      "sample": [
+        "Fully Funded Opp: Yale Law School",
+        "Education is a human right."
+      ],
+      "ageDays": 5,
+      "total": 10,
+      "opportunityRatio": 0.4
+    },
+    {
+      "name": "Grants for Small Business Owners",
+      "feed": "https://www.grantsforsmallbusinessowners.com/feed",
+      "sample": [
+        "LAST CALL... REGISTRATION CLOSES TODAY! ⏳",
+        "Don't miss this one, Florida business owners 👀"
+      ],
+      "ageDays": 7,
+      "total": 20,
+      "opportunityRatio": 0.4
+    },
+    {
+      "name": "Attracta Beauty Awards Substack",
+      "feed": "https://attractabeautyawards.substack.com/feed",
+      "sample": [
+        "Cutting Through the Longevity Hype with Prof. Patrick Treacy",
+        "My Daily Routine and Why I Keep Returning to the Same Essentials"
+      ],
+      "ageDays": 7,
+      "total": 20,
+      "opportunityRatio": 0.4
+    },
+    {
+      "name": "Major Grants",
+      "feed": "https://majorgrants.substack.com/feed",
+      "sample": [
+        "Seven Habits Grant Seekers’ Job Descriptions Ignore ",
+        "The Proposal Funders Read First "
+      ],
+      "ageDays": 15,
+      "total": 20,
+      "opportunityRatio": 0.4
+    },
+    {
+      "name": "Better Funding: Reimagining Funding in Practice",
+      "feed": "https://betterfunding.substack.com/feed",
+      "sample": [
+        "Three reads to take into the new season ",
+        "The Practice of Adaptation "
+      ],
+      "ageDays": 29,
+      "total": 10,
+      "opportunityRatio": 0.4
+    }
+  ]
+}

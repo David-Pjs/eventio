@@ -1,0 +1,23 @@
+{
+  "name": "@eventio/radar-sources",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "vitest run",
+    "collect": "tsx src/run.ts",
+    "discover:newsletters": "tsx src/discover-newsletters.ts",
+    "collect:local": "cross-env RADAR_LOCAL=1 tsx src/run.ts"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.2.5"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^3.0.0"
+  }
+}
